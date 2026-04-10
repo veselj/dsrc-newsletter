@@ -1,13 +1,12 @@
 PANDOC ?= pandoc
 PDF_ENGINE ?= weasyprint
-SOURCE_DIR ?= $1
 
-MD := $(SOURCE_DIR)/newsletter.md
+MD := newsletter.md
 CSS := newsletter.css
 TEMPLATE := newsletter.template.html
 
 HTML_OUT := newsletter.html
-PDF_OUT := $(SOURCE_DIR)/$(SOURCE_DIR)_DSRC_Newsletter.pdf
+PDF_OUT := DSRC_Newsletter.pdf
 
 .PHONY: all pdf html clean
 
