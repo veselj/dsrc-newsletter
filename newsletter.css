@@ -1,0 +1,344 @@
+:root {
+	color-scheme: light;
+
+	/* Page background */
+	--bg: #f5f7fa;
+
+	/* Title header background */
+	--header-bg: #7fc384;
+	--surface: #ffffff;
+	--text: #0f172a;
+	--muted: #475569;
+	--border: #e2e8f0;
+
+	/* Accent (blue headings) — update these hex values if you extract DSRC's exact palette */
+	--accent: #1d5f8a;
+	--accent-2: #3a8dbd;
+
+	/* Optional logo (set to url('...') to enable) */
+	--logo: url("DRSC Logo Icon.png");
+
+	--radius: 14px;
+	--shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+	--content-width: 1060px;
+	--text-width: 72ch;
+	--card-pad-x: 64px;
+
+	/* Header logo layout */
+	--logo-col: 90px;
+	--logo-width: 90px;
+	--logo-height: 100px;
+	--logo-gap: 6px;
+}
+
+* { box-sizing: border-box; }
+
+html {
+	-webkit-text-size-adjust: 100%;
+	background: var(--bg);
+}
+
+
+/*
+	Pandoc's default standalone HTML does NOT wrap content in <main>.
+	So we style <body> as the card container, and also support the template
+	version (which uses <main>) via shared selectors further below.
+*/
+body {
+	margin: 28px auto;
+	max-width: var(--content-width);
+	padding: 22px var(--card-pad-x) 34px;
+	background: var(--surface);
+	border: 1px solid var(--border);
+	border-radius: var(--radius);
+	box-shadow: var(--shadow);
+	color: var(--text);
+	font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji",
+		"Segoe UI Emoji";
+	line-height: 1.6;
+}
+
+header#title-block-header {
+	margin: -22px calc(var(--card-pad-x) * -1) 18px;
+	padding: 22px var(--card-pad-x) 18px;
+	border-top: 8px solid var(--accent);
+	border-bottom: 1px solid var(--border);
+	background: var(--header-bg);
+	display: grid;
+	grid-template-columns: auto 1fr;
+	column-gap: var(--logo-gap);
+	align-items: center;
+}
+
+/* Logo slot above the title (enabled by setting --logo: url('...')) */
+header#title-block-header::before {
+	content: "";
+	display: block;
+	grid-column: 1;
+	grid-row: 1 / span 4;
+	width: var(--logo-width);
+	height: var(--logo-height);
+	margin: 0;
+	background-image: var(--logo);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
+}
+
+header#title-block-header > .title,
+header#title-block-header > .subtitle,
+header#title-block-header > .author,
+header#title-block-header > .date {
+	grid-column: 2;
+}
+
+/* Keep body text comfortably narrow (magazine-like gutters)
+	Works for both: default pandoc output (direct children of body)
+	and template output (children of main).
+*/
+body > p,
+body > ul,
+body > ol,
+body > blockquote,
+body > pre,
+body > table,
+main > p,
+main > ul,
+main > ol,
+main > blockquote,
+main > pre,
+main > table {
+	max-width: var(--text-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Lists need their indentation preserved when centered */
+body > ul,
+body > ol,
+main > ul,
+main > ol {
+	padding-left: 1.25rem;
+}
+
+@media screen and (max-width: 820px) {
+	:root {
+		--card-pad-x: 22px;
+		--logo-col: 80px;
+		--logo-width: 80px;
+		--logo-height: 80px;
+		--logo-gap: 6px;
+	}
+
+	body > ul,
+	body > ol,
+	main > ul,
+	main > ol {
+		padding-left: 1.15rem;
+	}
+}
+
+h1, h2, h3 {
+	line-height: 1.2;
+	scroll-margin-top: 16px;
+}
+
+/* Title styling (pandoc uses h1.title) */
+.title {
+	margin: 0 0 8px;
+	font-size: 2.1rem;
+	white-space: nowrap;
+	letter-spacing: -0.01em;
+}
+
+.subtitle {
+	margin: 2px 0 10px;
+	color: var(--muted);
+	font-size: 1.4rem;
+	letter-spacing: -0.01em;
+}
+
+.author,
+.date {
+	margin: 0;
+	color: var(--muted);
+	font-size: 0.95rem;
+}
+
+.author + .date { margin-top: 2px; }
+
+/* Section headings */
+h1:not(.title) {
+	margin: 28px 0 10px;
+	font-size: 1.5rem;
+	padding-bottom: 8px;
+	color: var(--accent);
+	border-bottom: 1px solid rgba(29, 95, 138, 0.25);
+}
+
+h2 {
+	margin: 22px 0 8px;
+	font-size: 1.15rem;
+	color: var(--accent);
+}
+
+h3 {
+	margin: 18px 0 6px;
+	font-size: 1.05rem;
+	color: var(--accent);
+}
+
+p { margin: 10px 0; }
+
+ul, ol {
+	margin: 10px 0 10px 1.25rem;
+	padding: 0;
+}
+
+li { margin: 6px 0; }
+
+/* Links */
+a {
+	color: var(--accent);
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 2px;
+}
+
+a:hover { color: var(--accent-2); }
+
+/* Horizontal rules read as section breaks */
+hr {
+	border: none;
+	height: 1px;
+	background: var(--border);
+	margin: 24px 0;
+}
+
+blockquote {
+	margin: 14px 0;
+	padding: 10px 14px;
+	border-left: 4px solid var(--accent-2);
+	background: rgba(14, 165, 183, 0.08);
+	color: #0b2230;
+}
+
+code, pre {
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	font-size: 0.95em;
+}
+
+pre {
+	margin: 12px 0;
+	padding: 12px 14px;
+	overflow: auto;
+	border: 1px solid var(--border);
+	border-radius: 10px;
+	background: #0b1220;
+	color: #e5e7eb;
+}
+
+pre code { color: inherit; }
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 14px 0;
+	font-size: 0.98rem;
+}
+
+th, td {
+	border: 1px solid var(--border);
+	padding: 10px 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+th {
+	background: rgba(11, 58, 90, 0.06);
+	color: var(--text);
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 12px;
+}
+
+/* Footer */
+.footer-contact {
+	margin-top: 22px;
+	padding-top: 12px;
+	border-top: 1px dashed var(--border);
+	color: var(--muted);
+}
+
+img.footer-badge {
+	display: block;
+	margin: 16px auto 24px;
+	max-width: min(106px, 23%);
+	height: auto;
+	border-radius: 0;
+}
+
+/* Print / PDF */
+@page {
+	size: A4 portrait;
+	margin: 18mm 16mm;
+}
+
+@media print {
+	:root {
+		--bg: #ffffff;
+		--shadow: none;
+		/* Tighter header spacing for paper */
+		--card-pad-x: 16px;
+		--logo-col: 80px;
+		--logo-width: 80px;
+		--logo-height: 90px;
+		--logo-gap: 6px;
+	}
+
+	/* Ask engines/browsers to keep background colors */
+	* {
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+
+	html { background: #ffffff; }
+	body {
+		margin: 0;
+		max-width: none;
+		padding: 0;
+		background: transparent;
+		border: none;
+		box-shadow: none;
+	}
+
+	/* Print card */
+	body {
+		background: #ffffff;
+		border: 1px solid #d1d5db;
+		padding: 16px 16px 22px;
+	}
+
+	/* Prevent “full-bleed” header from overflowing the page */
+	header#title-block-header {
+		margin: 0 0 18px;
+		padding: 16px;
+	}
+
+	a {
+		color: var(--accent);
+		text-decoration: underline;
+	}
+
+	/* Avoid breaking headings from their first paragraph */
+	h1, h2, h3 { break-after: avoid-page; }
+	p, li { break-inside: avoid; }
+
+	pre {
+		background: #111827;
+		color: #f9fafb;
+	}
+}
