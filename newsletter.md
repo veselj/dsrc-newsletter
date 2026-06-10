@@ -1,105 +1,112 @@
 ---
 title: "Dundee Sailing and Rowing Club"
-subtitle: "May 2026 Newsletter"
-date: 8th May 2026
+subtitle: "June 2026 Newsletter"
+date: 9th June 2026
 author: "Yolanda Archibald"
 ---
 
 # Commodore’s Corner
 
-Hello everyone,
+Firstly, a very warm welcome to all the new members who have joined the club recently. It’s great to see so many new faces getting involved, and I hope you’re enjoying being part of the club both on and off the water. We have welcomed people from a variety of sailing and rowing backgrounds, including, some who have brought their own boat along to join us on the water, which is great to see. 
 
-I’m not quite sure where the last month has gone, but it’s certainly been a busy one around the club! It’s been great to see so much happening both on and off the water, with lots of members getting involved and supporting the club.
+It’s been great to see the club so active, with sailing and rowing, training and regatta all keeping members busy. The Thursday sailing sessions have really taken off, with lots of boats on the water and a great mix of experienced members and newcomers getting involved. While the weather hasn’t always been on its best behaviour – here’s hoping for a summer filled with sailing, rowing, laughter and lots more time on the water. 
 
-It’s also lovely to see some new faces joining both sailing and rowing over the past few months. A very warm welcome to all our new members - we hope you enjoy being part of the club, both on and off the water.
+# Everyone Has Something to Offer
 
-One of the great things about the club is that members can get involved in both sailing and rowing, so if you’ve only tried one activity so far, why not give the other a go too? There's always something happening around the club and you can have a cup of tea/coffee and a bit of a chat once you're back off the water. 
+One of the great things about our club is that everyone brings something different to it. Some members are sailors, some are rowers, some enjoy both, and many skills and experience that help keep the club running on and off the water.  
 
- 
-# Work Party
+If you’re a new member and have skills or experience in areas such as woodworking, fibreglass repairs, painting, joinery, engineering, electrics, or other trades, we’d love to hear from you. It doesn’t mean you’re signing up for a full-time job! But it’s always helpful to know who we might be able to call on occasionally for advice or a helping hand.
 
-Our latest work party took place on 2nd May, with everyone getting the boats shipshape and ready for the Open Day. There were plenty of busy bees about, doing repairs, tiding, slipway, cutting the grass and preparations all happening at once, and there was a hive of activity. Our next work party is on Saturday 6th June at 10am, please come along. We’re hoping to brighten things up with some painting at the clubhouse, along with the usual jobs, and there’s always a good chat while the work gets done!
+The club only works because members share their time, skills and experience, and every contribution — large or small — is greatly appreciated.
 
-## Fancy helping brighten the place up?
+# Open Day – 9th May
 
-If anyone fancies helping organise or take the lead on some of the painting jobs, that would be very welcome too.
+Wow, what a day it turned out to be! The club was buzzing and the wind kept everyone on their toes. A huge thank you to everyone who helped take visitors sailing and rowing, managed the stalls, helped with registration and kitting out - it was an outstanding success. It was fantastic to see so many visitors enjoying both sailing and rowing.  We were also lucky to capture some wonderful photographs and video footage from the day, helping preserve some great memories. A special mention must go to young Pavel, who worked throughout the day helping with the teas and coffees.
 
-# Safety Boats
+A special thank you to Martin Groves, who kindly brought along his drone and captured some amazing aerial footage of the sailing boats and skiffs out on the water. The views from above really showed the club at its very best.
 
-A big thanks to Chris and Stuart for the huge amount of work they’ve been putting into the safety boats and engines recently. Their time and effort behind the scenes are very much appreciated, and without the safety boats, our sailing activities couldn’t take place.
+Many thanks also to Murray, who spent much of his time in the water helping boats launch and recover that we’re considering charging him harbour dues! 😊 It certainly didn’t go unnoticed and was a huge help in keeping everything running smoothly.
 
-We’re hoping to organise some powerboat training for the club members soon, which should be a great opportunity for anyone interested in helping on the safety boats. More details to follow soon.
+The stalls were another great success, raising an incredible £510 for the club. A huge thank you to the party planners and everyone who donated items and supported the day in so many ways. It really was a fantastic team effort and shows what can be achieved when everyone pulls together.
 
-# Curry Night
+It looks as though somewhere between 45 and 52 people took to the water during the day, which is a fantastic result. Even better a number have since joined – so great result all round.
 
-Our Curry Night was a great success, with 28 members coming along for a fun-filled evening sampling a fantastic variety of Indian cuisine, enjoying good company and Clive’s quiz, which certainly kept everyone entertained. A huge thank you to the Party Planners for all their hard work that went into organising the evening, cooking, and transforming the clubhouse with wonderful, themed decorations, candles and flowers – it really created a lovely atmosphere and helped make the night such a success.
+# Regatta – Broughty Ferry Rowing – 30th May
+
+The Broughty Ferry Regatta on 30th May was a great day out, with DSRC rowers taking part in five races. While we didn’t come home with any medals this time, and if you want to know what actually happened in the ladies’ race, they certainly won the award for “Most Through Warm Up”. In fact, we were working so hard getting ready that Broughty Ferry went ahead and started the race without us. As their cox, I take full blame for the scheduling mishap, but our crews should be incredibly proud of themselves, especially as some of our rowers were taking part in their very first regatta.
+
+The teams have been training hard for only 6 weeks, with early morning rows, evening sessions and plenty of miles covered along the way. Thankfully there were also plenty of laughs, encouragement and good banter mixed in with all the hard work!
+
+A big thank you to Royal Tay for organising such a well-run event and for making us so welcome. Most importantly, everyone enjoyed the experience.
+
+# Work Party – 6th June
+
+Another productive working party saw more work achieved around the club. One of the Johns, together with helpers, tackled the dinghy parks, moving boats and cutting the grass underneath and around them, which made a real difference to the appearance of the site. Meanwhile, the other John and team were busy carrying out work on our former Commodore’s John’s dinghy. With so many Johns involved, we were beginning to lose track of which John was which. 😊
+
+More progress was also made on the slipway thanks to the effort of Clive and Paco, while David, Katja, Murray and another willing volunteer rolled up their sleeves to tackle the sanding and painting on the west side of the building. Two coats of blue later, the clubhouse was looking for mush fresher, and thankfully there were very few blue volunteers by the end of the day.    
+
+A big thank you to everyone who came along and lent a hand. It’s amazing what can be achieved when people roll up their sleeves and work together. Judging by the amount we got done, imagine what we could achieve with a few more pairs of hands next time.
+
+# Row Across the Atlantic Talk - 3rd June
+
+One of the highlights of the past week was undoubtedly our evening with Nicky Matthews, who shared the remarkable story of rowing across the Atlantic. What an inspiration she was. Listening to Nicky speak, it was impossible not to be amazed by what can be achieved when someone sets themselves a goal and is determined to see it through, no matter what challenges lie in the way.
+
+Nicky brought the adventure to life with honesty, humour and plenty of memorable stories. From learning how to repair damage to the boat in the middle of the ocean, to coping with the realities of life aboard a tiny rowing boat, and even going over the side — securely attached by rope 😊 — to clear barnacles from the hull, it was a fascinating insight into a world few of us will ever experience. What struck me most was the resilience, teamwork and sheer determination needed to keep going day after day, mile after mile, across more than 3,000 miles of open ocean.
+
+A huge thank you to Nicky for giving up her time to come and speak to us, and to Karen H. for organising such a wonderful evening. It was uplifting, inspiring and a powerful reminder that extraordinary things can be achieved by regular folk like us who dare to dream big and then have the courage to follow those dreams.
+
+# Power Boat & Safety Helm Refresher Courses
+
+We have five members taking part in the upcoming Power Boat and Safety Boat refresher courses. As well as building on existing experience and developing confidence on the water, the training will provide more members with the skills needed to helm club boats and support activities in the future.
+
+# A Reminder about the Clubhouse Cleaning Rota
+
+The rota is on the noticeboard upstairs at the top of the stairs, and there are still plenty of spaces available. If everyone takes a turn, it makes the job much easier for everyone and keeps the club looking good.
+
+Team up with another member and put your name down. New members are very welcome too, and if you’re not sure what’s involved, just ask a member and they’ll point you in the right direction and happy to show you the ropes.
+
+Please have a look next time you’re at the club and see if you can claim a slot. Many hands really do make light work! 😊
+
+# Club Outside Noticeboard 
+
+A big thank you to Kerstin, for giving the club noticeboard a refresher. So next time you are passing by, have a wee look. The noticeboard is also a great way of letting passers-by see what the club is all about. 
+
+If anyone has a flair for keeping things looking good and showcasing it for club visitors and passers-by and keeping everything fresh and up to date, please step forward 😊.
 
 
-# Sailing
+# Suggestion Box
 
-The sailing season is now well under way, with boats heading out on Tuesday, Thursdays and weather permitting the weekend sailing will take place, with a decision made during the week whether it will be Saturday or Sunday. Although a couple of sessions have been cancelled because of the weather, there has still been plenty of happening on the water, with a few younger sailors out in the toppers alongside some beginners getting their first taste of sailing. 
+We’re always happy to hear new ideas, if there’s something you’d like to see happening at the club, or you have a suggestion that might improve things, please pop a note in the suggestion box upstairs in the club. New ideas are always welcome!
 
-On a Saturday/Sunday, sailors have also managed to get out on some longer sails and venture further afield, making the most of the better weather and, at times, taking on some challenging conditions out on the water as well!    
+# Social Media Update
 
-The safety boats have also been busy the sailing sessions, with a helm and crew out on the water keeping an eye on the boats and sometimes managing to get some great photos and video clips, giving everyone a chance to see boats out on the water from a different angle - and a few very impressive action shots have appeared along the way – while making sure everyone stays roughly pointing in the right direction.
+Thanks to Mandy and the team for keeping our social media pages active and up to date. The figures below just how many are seeing and engaging with our posts. Who knew a few photos and videos could travel so far! 😊
 
-# Rowing
-
-The Wormit 2 Bridges Row took place on 26th April, and it turned into a fantastic day.  With the first crew rowing over to Wormit before the second crew took over to row through both bridges and back home. Some of the rowers also managed to row through the bridges too, which added to what was a really great day. Wormit once again made us feel very welcome, and as always, the hospitality and food went down very well after a day on the water – Thanks to Wormit.
-
-The regatta rowers have certainly been putting the effort in with some very early starts with some members discovering that rowing does exist before most people are even awake. We have four teams training hard for the Broughty Ferry regatta on Saturday 30th May, and it’s been great to see the commitment and team spirit from everyone involved.
+<p style="text-align: center;">
+	<img src="social-media-june26.jpeg" alt="DSRC social media statistics" style="width: 40%; height: auto; display: block; margin: 0 auto;" />
+</p>
 
 
-# RP Assessment
+# Dates to Be Noted
 
-Congratulations to Phil and Gordon on successfully completing their RP assessment and becoming designated RP’s!
-They did a fantastic job on the water, especially while dealing with all sorts of unexpected situations (with a few challenges added in by the motley crews) during the assessment. They took it all in their stride with great patience and good humour.
-
-# Evening Talks 
-
-We recently held two more evening talks at the club, with Clive giving a practical session on Knots on 16th April, followed by Linda talking on The Role of the Cox on 29th April. 
-
-If anyone has ideas for future talks, topics they would like to be covered, please get in touch. We look to restart these later in the year and it would be good to see a few more faces along when they start up again.    
-
-# Maintenance Help
-
-We’d also love to find someone who might be willing to help head up some of the maintenance jobs around the club.
-While Derik has kindly taken on the role of the Bosun for the skiffs, it would be great to build a few folk who enjoy practical jobs and don’t mind lending a hand now and again with things like woodwork, fiberglass, repairs, painting or general maintenance.
-
-It doesn’t necessarily need to be a club member so if you know a friend, family member, retired tradesman or keen DIY-er who might fancy helping occasionally, we’d love to hear from you. Even a few hours here and there can make a huge difference. 
-
-We are also trying to find someone who may be able to help with towing the skiff to events and regattas. Linda has kindly been making enquiries and has managed to contact a local towing/breakdown service which could possibly help at a cost. It would still be good if we could find someone connected to the club who might be willing to help with towing from time to time, if anyone has any ideas, please get back.    
-
-# Social Media & Publicity
-
-A big thanks to Mandy, Michelle, Mark and Mary, who have been helping get the club’s Instagram up and running alongside the Facebook page. They’ve been busy taking photographs and video clips and sharing information about the club activities and events, which is a great way of helping promote the club and keep folk up to date. So, keep an eye out - you never know who will appear in a photo!
-
-A big thank you as well to Stacy for putting together the graphics for the new reusable outdoor panners promoting our Open (Fun) Day - they look great and have brightened the place up!
-
-# Club Development
-
-A big thank you to Lorraine and Maria, who have kindly offered to help support some of the club’s longer-term development and fundraising work behind the scenes. There’s a lot involved in pulling information together and exploring possible opportunities for the club, and their help and enthusiasm is very much appreciated.
-
-# Upcoming Events
-
-- FIFIE Friday – Elie Thursday 14th May & North Queensferry 26th June
-- Broughty Ferry Regatta – Saturday 30th May
+- Midsummer Sailing with camping at Perth - Weekend 20-21st June
 - Forfar Fun Regatta – Saturday 20th June
-- Midsummer Sailing with camping at Perth - 21st June
-- TEWSH/Gala Day regatta (sailing and rowing) – Sunday 5th July 
+- Fifie Friday – North Queensferry 26th June
+- TEWSH/Gala Day Regatta (sailing and rowing) – Sunday 5th July
 - Portsoy Trip – 25-28th August
-- DSRC Beach Bonfire Night, live music with the Doolichters in the boathouse – Friday 28th August  
+- DSRC Beach Bonfire Night, live music with the Doolichters in the boathouse – Saturday 29th August
 - Forfar Regatta – Saturday 17th October
+
+
+A reminder to keep an eye on our WhatsApp groups, where rowing training sessions 
+and other opportunities are regularly being posted. Also sailors please keep an
+eye on Spond for your weekday and weekend sails.
 
 Further longer trips can be found on the club calendar and sailing programme.
 
-# Information
+<div class="page-break"></div>
 
-You can find lots of information on the club website, including our club calendar, sailing programme, Training material, Weather and lots more. It’s a great way to keep up with what’s happening in the club, so please have a look and make the most of it. 
-
-There’s certainly no sign of things slowing down around the club any time soon, with plenty still to come over the summer months.
-
-Here’s to good company, safe sailing, strong rowing and hopefully a bit more sunshine along the way!
+Until next time, keep the water on the outside of the boats, the paint on the woodwork, and try not to lose track of which John is which!
 
 Yolanda
 
