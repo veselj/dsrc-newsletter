@@ -69,6 +69,21 @@ git commit -m "Archive June 26 newsletter"
 git push
 ```
 
+## Special tags
+
+- Page break: ```<div class="page-break"></div>```
+- Non-breaking space: ```&npsp```; 
+- image
+   ```
+   <p style="text-align: left;">
+	<img src="eyes.png" alt="Eyes" style="width: 5%; height: auto; display: block;" />
+   </p>
+   ```
+
+## Check
+
+After the newsletter is generated, you may need to check page breaks and fix them manually with ```<div class="page-break"></div>```.
+
 ## Files
 
 | File | Purpose |

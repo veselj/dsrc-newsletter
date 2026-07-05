@@ -266,16 +266,16 @@ img {
 
 /* Footer */
 .footer-contact {
-	margin-top: 22px;
+	margin-top: 12px;
 	padding-top: 12px;
-	border-top: 1px dashed var(--border);
+	/* border-top: 1px dashed var(--border); */
 	color: var(--muted);
 }
 
 img.footer-badge {
 	display: block;
-	margin: 16px auto 24px;
-	max-width: min(106px, 23%);
+	margin: 12px auto 12px;
+	max-width: min(106px, 15%);
 	height: auto;
 	border-radius: 0;
 }
