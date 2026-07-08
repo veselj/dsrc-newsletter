@@ -9,7 +9,7 @@ author: "Yolanda Archibald"
 
 As we move further into summer, it’s hard to believe this is already my fourth Commodore’s newsletter. The months seem to be flying by, and it has been wonderful to see the club so active both on and off the water. There has been a great deal happening, and still plenty to look forward to.
 
-It has also been a pleasure to welcome a number of new members to the club over the past month. We’re delighted to have you on board and hope you’ll enjoy everything DSRC has to offer. I’ve had the pleasure of meeting some of you already, and hope to meet many more of you at our Chippy Tea on Friday 25 July at 18:30 in the club. It will be a great opportunity to get together and chat.&nbsp;😊
+It has also been a pleasure to welcome a number of new members to the club over the past month. We’re delighted to have you on board and hope you’ll enjoy everything DSRC has to offer. I’ve had the pleasure of meeting some of you already, and hope to meet many more of you at our Chippy Tea on Saturday 25th July at 18:00 in the club. It will be a great opportunity to get together and chat.&nbsp;😊
  
 # Sailing
 
@@ -71,7 +71,7 @@ Thank you for your understanding and support as we work to make the compound mor
 
 - TEWSH/Gala Day Regatta (sailing and rowing) – Sunday 5th July
 - Chippy Tea – Saturday 25th July at 18:00 soft drinks provided or BYOB 
-- Fifie Fridays - 31st July at Kinghorn, August (date to still be confirmed) St Andrews 
+- Fifie Fridays - 31st July at Kinghorn, August (day still to be confirmed) at St Andrews 
 - Portsoy Trip - 25-28th August
 - DSRC Beach Bonfire Night, live music with the Doolichters in the boathouse – Saturday 29th August
 - Forfar Regatta – Saturday 17th October.
