@@ -79,6 +79,11 @@ git push
 	<img src="eyes.png" alt="Eyes" style="width: 5%; height: auto; display: block;" />
    </p>
    ```
+- image with text floating to right
+  ```
+  <div style="overflow: hidden;">
+  <img src="club-calendar.jpeg" alt="Club Calendar" style="float: left; width: 30%; height: auto; margin: 10px 20px 10px 0; border-radius: 12px;" />
+  ```
 
 ## Check
 
