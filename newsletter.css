@@ -220,6 +220,7 @@ blockquote {
 	border-left: 4px solid var(--accent-2);
 	background: rgba(14, 165, 183, 0.08);
 	color: #0b2230;
+	font-style: italic;
 }
 
 code, pre {
@@ -338,6 +339,12 @@ img.footer-badge {
 	/* Avoid breaking headings from their first paragraph */
 	h1, h2, h3 { break-after: avoid-page; }
 	p, li { break-inside: avoid; }
+	blockquote p { break-inside: auto; }
+	blockquote {
+		-webkit-box-decoration-break: clone;
+		box-decoration-break: clone;
+	}
+
 
 	.page-break {
 		display: block;

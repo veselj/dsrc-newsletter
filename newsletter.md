@@ -1,90 +1,173 @@
 ---
 title: "Dundee Sailing and Rowing Club"
-subtitle: "July 2026 Newsletter"
-date: 5th July 2026
+subtitle: "August 2026 Newsletter"
+date: 3rd August 2026
 author: "Yolanda Archibald"
 ---
 
 # Commodore’s Corner
 
-As we move further into summer, it’s hard to believe this is already my fourth Commodore’s newsletter. The months seem to be flying by, and it has been wonderful to see the club so active both on and off the water. There has been a great deal happening, and still plenty to look forward to.
+Every time I look around the club, I’m reminded of what makes this place so special.
+Sure, the sailing and rowing are top-notch, but it’s the community spirit behind the
+scenes that really sets us apart - members helping members, welcoming fresh faces,
+and pitching in whenever called – even if it’s scrubbing the slipway or chasing a
+runaway fender.
 
-It has also been a pleasure to welcome a number of new members to the club over the past month. We’re delighted to have you on board and hope you’ll enjoy everything DSRC has to offer. I’ve had the pleasure of meeting some of you already, and hope to meet many more of you at our Chippy Tea on Saturday 25th July at 18:00 in the club. It will be a great opportunity to get together and chat.&nbsp;😊
+A huge, warm welcome to all our new faces! We hope you’re settling in nicely and
+getting stuck into everything the club has to offer. Don’t worry if you can’t remember
+everyone’s name yet, half of us have been here for years and we’re still guessing!
  
-# Sailing
+# Watersports Showcase – 5th July
 
- It has been another busy and successful month for our sailors. Our regular Tuesday club sailing and Thursday training session continue to be well supported with an impressive 22 sailors taking to the water. It has also been encouraging to see an increase in numbers, including families and younger members going from strength to strength, with so many members getting involved. Thank you to everyone who has contributed their time and enthusiasm on and off the water.&nbsp;😊
+The TEWSH (Tay Estuary Water Sports Hub) put on a good show at the Watersports
+Showcase, with both sailors and rowers getting stuck in. It was good to see other
+local clubs out together, but I think it’s fair to say our members stole a bit of the
+spotlight.
 
-On 14th June, eight sailors set sail to sail around Mugdrum Island by Newburgh. It was a long day (8hrs on the water) with various conditions – taking their time and enjoying the experience. The sailors showed good seamanship by keeping well out of the racing line and avoiding becoming an unexpected extra obstacle in the race by keeping clear while the Newburgh sailing club were taking part in their race around the Island. 
+Our three Wayfarers took to the water, making up an impressive one-third of the
+impressive dinghy fleet despite the challenging conditions. The Humber safety boat
+also put on an excellent demonstration of capsize recovery and towing although the
+“demonstration” came a little earlier than planned after making a rather hasty exit
+from the parade!
 
-## Ready to Launch!
+Everyone returned with smiles on their faces … even Rodrigo, who was proving that
+every dinghy needs a figurehead - even if it’s on the wrong side of the boat. &nbsp;😊
 
-Thanks for the hard work of Jan, Kerstin, Pawel, Manuel, and Stuart, 5 Toppers and 3 Lasers are now ready for our budding sailors. They’ve put a great deal of effort getting everything shipshape and ready to go. The boats are ready and raring to go.&nbsp;😊    
+# Sailing Round-Up
 
-# Rowing
+The past few months has been packed with sailing, and it’s been exceptionally busy
+and very enjoyable sailing. It’s been wonderful to see so many boats on the water,
+with some of the best turnouts we’ve had in many years.
 
-Rowing has also had a very busy and positive month. Training and tasters have been going incredibly well! _“You came for some tasters and now you’re members of the club”… There is no escape now - look on the bright side-you’ve now got a built-in excuse to eat twice as much pasta-Great to have you on board”_.  Welcome.
+With sailing continuing to go from strength to strength. We had an impressive 15
+boats took to the water with 23 sailors, and the enthusiasm hasn’t stopped there,
+with more 14 boats enjoying some excellent sailing during our weekday evenings.
 
-Regatta Success at Forfar Loch! On the 20th June, 18 of our rowers headed to Forfar Loch for a fantastic fun regatta and what a day it was. From the high-energy fun races to the 2K events, everyone gave it their absolute all. Congratulations to one of our teams who even came home with a medal! It looks like we need to start building a trophy cabinet&nbsp;😂. Everybody mucked in to make the day a massive success. A Big thank you to all the budding photographers, and everyone who cheered us on.
+Our weekend sailing has been just as successful. The Perth sailing and camping trip
+threw just about every weather condition imaginable at the sailors and making for a
+memorable adventure. After an action-packed day on the water, they enjoyed a
+BBQ. Topped off by a night under canvas before sailing back to the club.
 
-We want to extend a huge **THANK YOU** to Forfar for hosting the event. We are grateful for the welcome and the organising that went into making the fun regatta run so smoothly.
+Another popular outing didn’t stop there. Some members enjoyed a relaxed Sunday
+sail to the V&A and then onto Wormit beach.
 
-On the 24th June, a number of our rowers headed to North Queensferry for Fifie Friday. Although the event was cancelled while they were on their way, due to weather, most were already there and decided to continue the journey. Thankfully, the weather gave them a lucky break, and they enjoyed a brilliant row under the Forth Road Bridge.
+It was great to see many of our long-standing members joining the trip, showing the rest of
+us that enthusiasm for sailing only get stronger with the years! &nbsp;😊
 
-The surprise highlight of the day was a visit from a pod of dolphins, who swam alongside the skiff and gave everyone a real treat. 
+A special mention goes to young Michael, who confidently took the helm and steered
+for most of the journey to Wormit beach with absolute precision, we anchored the
+wayfarers and everyone gathered on the sea wall to have a picnic. But while the rest
+of us were slowly roasting like rotisserie chickens in the sun, Kerstin decided she
+can casually stroll straight into the Tay for a swim - looking remarkably pleased with
+herself while the rest of us sat there melting in our clothes. &nbsp;😊😊
 
-Eider is currently at the DSRC Spa enjoying a well-deserved makeover! She has now been turned over, the hull has been painted, and work is well under way on the oars, footrest and trolley. Once the paint has fully dried, she’ll be turned back over on to the trolley for the inside treatment before making her return to the water and looking her best.
+# On the Oars: Coffee, Tasters and New RP’s
+
+Over on the rowing side, things have been buzzing. We’ve had a steady stream of
+taster sessions with new faces coming along – and even better coming back.
+Speaking of those taster sessions, a massive Thank You to Clive, from sending out
+the information, opening up the club and chatting with every new face and keeping
+us all in the loop.
+
+A major highlight this month was not one, but two separate rowing trips to Newport
+for coffee, proving that our rowers are just as dedicated to caffeine as they are to
+cardio. A huge shout out to Karen and Phil for leading the way and for successfully
+navigation their first long trip as RPs, and by all accounts, everyone had a great time.
+“Clive shares the fully story later in this newsletter”.
+
+Cox Training is Back! Linda is back at the helm now she’s been released from
+grandparent duties, so cox training sessions are underway once again on a Monday
+evening – Please check the booking sheet for all dates.
 
 
-# Club News & Congratulations
+# Breaking News: Eider finished her Spa Month
 
-Congratulations to Karen on successfully completing her RP assessment, especially while dealing with all sorts of unexpected situations “with a few bonuses thrown in by the crew, who were clearly taking their acting roles very seriously”!  
+After weeks of intense pampering, deep tissue sanding, and full-body coats of fresh
+paint, Eider is finally ready to return to the water. She’s sporting 2 fresh coats of paint
+and varnish inside and out, new thole pins, to top it off Derik fitted a snazzy set of
+new rollers to the trolley to save all our backs.
 
-Congratulations to Paco, Clive and Pawel for gaining their RYA PB2 qualification – a great achievement and another positive step in building skills and confidence within the club. 
+# Fish & Chip Night
 
-A big welcome to Giorgia, who has joined the social media team. It’s great to have another enthusiastic member on board. Thanks to the effort of the whole team, our Facebook and Instagram pages continue to grow, with one recent post following the row on 23rd June reaching an impressive 1,003 views. This is helping to showcase the many activities taking place at the club and keeping members up to date.
+Well, that Fish and Chip night was off the scale! What a cracking evening we had,
+thank you to our increasable Party Planners who went all out. The clubhouse was
+transformed into a top-tier nautical chippy – “complete with salt, vinegar, a brilliant
+quiz and incredible hand-crafted bunting and paper boats”.
 
-# Our Party Planners Strike Again
+A big shout-out to our Party Planners Pam, Eileen, Rosilynn, Clive, Wendy, Karen,
+Jennet, Mandy, Phil – Once again, they pulled out for all the stops to make the
+evening such a success.
 
-Our ever-energetic Party Planners have been busy as ever! As well as organising social events, their latest addition is our new club logo stickers, now on sale for £1 each. They are perfect for notebooks, toolboxes, laptops, water bottle or anywhere you would like a touch of club spirit. Why not pick up some, next time you’re at the club and help spread the word about DSRC.
 
+# Member's Corner
 
-# Workshop Reminder 
+This month club member Clive shares his experience from one of his recent rows:
 
-Our workshop is a fantastic facility, and we’d like to keep it that way. Please remember that the workshop is a shared space. If you’ve used tools, return them to their proper place. If you’ve made a mess, please clear it up before you leave.
+> “Two bridges and a bacon roll”- There was an opportunity near the end of July to
+> do a long row upriver pushed by the tide and then return with the tide. The RP did
+> her best to drum up a crew, but it seemed to no avail. Then the advertising tactics
+> changed – with a crew of five we could comfortably do one bridge, with a crew of six
+> we could do both bridges and call at a coffee shop on the way back. Was the coffee
+> shop enough of a pull? It was not 100% successful as we only had 5 crew, the
+> minimum needed, but we could go ahead and have time on the water. Conditions on
+> the day were superb and after only 30 minutes we had reached Newport. We paused
+> and conferred - there were a few doubters in the boat so we compromised by saying
+> we would continue for another 20 minutes. That bit of confabbing cost us as the
+> rising tide was dying fast. Eventually the railway bridge got closer and time was
+> pushed to the back of everyone’s mind. A little more effort and perseverance and we
+> were under the railway bridge – a first for everyone on board. After turning around
+> the focus was on Newport and the promised café. We landed on a shingle beach
+> and tramped up to the terrace at Shoreline. Bacon rolls, egg rolls - there may have
+> been others – scones with cream and jam were served up along with tea and various
+> coffees. Whatever aches and pains may have existed were lost in the endless
+> chatter. And then back to the boat and home. One other first was scored that day;
+> our RP was acting alone for the first time. I don’t know if we managed to embarrass
+> her with our congratulations and applause, but we did try hard.
 
-Keeping the workshop tidy isn’t someone else’s job - it’s everyone’s responsibility. A few minutes at the end of each job makes a huge difference and helps ensure the workshop is ready for the next member.
+If you have a story or experience you would like to share, please let me know. It
+would be great to make it a regular feature of the newsletter.
 
-Thank you for your support.
+# Workshop Corner & Wash Down Hose Reel
 
-# Making Room for Our Growing Club
+Just a couple of friendly reminders. Whether you’re working on the skiff, your own
+boat, or using the workshop, please remember to leave your work area nice and tidy
+when you’ve finished and put tools or equipment back where they belong.
+Unfortunately, the Tool Fairy is on holiday, and nobody is coming in overnight to
+sweep up after us.
 
-With our membership continuing to grow, we’re working hard to make the best use of space both inside and outside. As part of this, we’re organising storage areas, identifying equipment and carrying out some general improvements, including a bit of painting.
+One final favour, please. After using the wash-down hose reel, could you leave it on
+the east side of the workshop, beside the clothing store (where the sailing gear is
+kept), it’s starting to rust, and keeping it there will help.
 
-If you have a boat or personal equipment stored at the club, please make sure they are clearly tagged with your name. It would also be helpful to include the date on the reverse of the tag. Tags are available in the lounge upstairs with cable ties. 
+# DSRC Calendar – Order Yours Now
 
-As part of making better use of the compound, we’d be grateful if members whose boats are not sailed regularly or not being used, could move them to the far end of the compound. This will allow boats that are used regularly to be nearer the gate, making launching and recovery easier for everyone.
+<div style="overflow: hidden;">
+  <img src="club-calendar.jpeg" alt="Club Calendar" style="float: left; width: 30%; height: auto; margin: 10px 20px 10px 0; border-radius: 12px;" />
+  <p>Packed with brilliant sailing and rowing photos, our club calendar for £10. Buy one for yourself, pick one a few extra for friends or family? Whether they live just around the corner or on the other side of the world.</p>
+  <p>Please pay through the Club bank account: Reference ‘calendar’, Sort Code: 80-22-60, Acc No: 29413263.</p>
+</div>
 
-Thank you for your understanding and support as we work to make the compound more accessible and practical for all members. Your support is very much appreciated – and if anyone enjoys sorting, tidying or painting, we may just have found your dream job!&nbsp;😉
+<div class="page-break"></div>
 
-# Dates to be Noted
+# Dates to Remember
 
-- TEWSH/Gala Day Regatta (sailing and rowing) – Sunday 5th July
-- Chippy Tea – Saturday 25th July at 18:00 soft drinks provided or BYOB 
-- Fifie Fridays - 31st July at Kinghorn, August (day still to be confirmed) at St Andrews 
+- Cox Training Session - started again, please see booking sheets
+- Safety Helm Refresher - Saturday 8th August
+- Boat Shed Paint & Soup Day - 12th August
+- Fifie Friday - Date to follow
 - Portsoy Trip - 25-28th August
-- DSRC Beach Bonfire Night, live music with the Doolichters in the boathouse – Saturday 29th August
-- Forfar Regatta – Saturday 17th October.
+- DSRC Beach Bonfire Night, live music with the Doolichters in
+the boathouse - Saturday 29th August
+- Bell Rock - 4th September
+- Forfar Regatta - Saturday 17th October
 
-<p style="text-align: left;">
-	<img src="eyes.png" alt="Eyes" style="width: 5%; height: auto; display: block;" />
-</p>
+# Until Next time
 
-A reminder to keep an eye on our WhatsApp groups, where rowing training sessions and other opportunities are regularly being posted. 
-Also, sailors please keep an eye on Spond for your weekday and weekend sails.
-Further longer trips can be found on the club calendar and sailing programme.
-
-_Until the next month, whether you’re rowing, sailing or cheering from the shore, Thank You for helping make our club such a friendly and welcoming place. Wishing you fair winds, following seas and happy rowing. See you on the water!_
+Remember, rowers are the only athletes who spend an entire
+workout staring at where they have just been, while dinghy sailors are the only
+people who tie themselves into human knots just to pray for a breeze to get home for
+tea. Keep the pointy end forward, don’t drop the rudder, and if all else fails - blame
+the tide! &nbsp;😊
 
 &nbsp;
 
