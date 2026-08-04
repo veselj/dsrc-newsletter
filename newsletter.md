@@ -115,7 +115,7 @@ This month club member Clive shares his experience from one of his recent rows:
 > we would continue for another 20 minutes. That bit of confabbing cost us as the
 > rising tide was dying fast. Eventually the railway bridge got closer and time was
 > pushed to the back of everyone’s mind. A little more effort and perseverance and we
-> were under the railway bridge – a first for everyone on board. After turning around
+> were under the railway bridge – a first for some on board. After turning around
 > the focus was on Newport and the promised café. We landed on a shingle beach
 > and tramped up to the terrace at Shoreline. Bacon rolls, egg rolls - there may have
 > been others – scones with cream and jam were served up along with tea and various
@@ -143,7 +143,7 @@ kept), it’s starting to rust, and keeping it there will help.
 
 <div style="overflow: hidden;">
   <img src="club-calendar.jpeg" alt="Club Calendar" style="float: left; width: 30%; height: auto; margin: 10px 20px 10px 0; border-radius: 12px;" />
-  <p>Packed with brilliant sailing and rowing photos, our club calendar for £10. Buy one for yourself, pick one a few extra for friends or family? Whether they live just around the corner or on the other side of the world.</p>
+  <p>Packed with brilliant sailing and rowing photos, our club calendar for £10. Buy one for yourself, pick a few extra for friends or family? Whether they live just around the corner or on the other side of the world.</p>
   <p>Please pay through the Club bank account: Reference ‘calendar’, Sort Code: 80-22-60, Acc No: 29413263.</p>
 </div>
 
