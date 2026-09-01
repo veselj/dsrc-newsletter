@@ -1,173 +1,95 @@
 ---
 title: "Dundee Sailing and Rowing Club"
-subtitle: "August 2026 Newsletter"
-date: 3rd August 2026
+subtitle: "September 2026 Newsletter"
+date: 1st September 2026
 author: "Yolanda Archibald"
 ---
 
 # Commodore’s Corner
 
-Every time I look around the club, I’m reminded of what makes this place so special.
-Sure, the sailing and rowing are top-notch, but it’s the community spirit behind the
-scenes that really sets us apart - members helping members, welcoming fresh faces,
-and pitching in whenever called – even if it’s scrubbing the slipway or chasing a
-runaway fender.
+If anyone was hoping for a quiet August at DSRC…. we clearly didn’t get the memo!
 
-A huge, warm welcome to all our new faces! We hope you’re settling in nicely and
-getting stuck into everything the club has to offer. Don’t worry if you can’t remember
-everyone’s name yet, half of us have been here for years and we’re still guessing!
+It’s been a month packed with sailing, rowing, training, jobs around the club and, of course, a little adventure further afield. And when there’s an adventure to be had, it doesn’t usually take much persuasion for the DSRC members to pack their bags and head off – this time to Portsoy was calling. 😊😊
+
+There have been plenty of laughs, great days on the water, and more than a few stories to tell, so grab a cuppa and read on ... 
+
  
-# Watersports Showcase – 5th July
+# August Adventures – Before We Even Got to Portsoy!
 
-The TEWSH (Tay Estuary Water Sports Hub) put on a good show at the Watersports
-Showcase, with both sailors and rowers getting stuck in. It was good to see other
-local clubs out together, but I think it’s fair to say our members stole a bit of the
-spotlight.
+August got off to a flying start! Our Barry Budden outing saw 16 sailors and 6 rowers for a great day out – and thankfully, the only thing being launched at Barry that day were the DSRC boats.
 
-Our three Wayfarers took to the water, making up an impressive one-third of the
-impressive dinghy fleet despite the challenging conditions. The Humber safety boat
-also put on an excellent demonstration of capsize recovery and towing although the
-“demonstration” came a little earlier than planned after making a rather hasty exit
-from the parade!
-
-Everyone returned with smiles on their faces … even Rodrigo, who was proving that
-every dinghy needs a figurehead - even if it’s on the wrong side of the boat. &nbsp;😊
-
-# Sailing Round-Up
-
-The past few months has been packed with sailing, and it’s been exceptionally busy
-and very enjoyable sailing. It’s been wonderful to see so many boats on the water,
-with some of the best turnouts we’ve had in many years.
-
-With sailing continuing to go from strength to strength. We had an impressive 15
-boats took to the water with 23 sailors, and the enthusiasm hasn’t stopped there,
-with more 14 boats enjoying some excellent sailing during our weekday evenings.
-
-Our weekend sailing has been just as successful. The Perth sailing and camping trip
-threw just about every weather condition imaginable at the sailors and making for a
-memorable adventure. After an action-packed day on the water, they enjoyed a
-BBQ. Topped off by a night under canvas before sailing back to the club.
-
-Another popular outing didn’t stop there. Some members enjoyed a relaxed Sunday
-sail to the V&A and then onto Wormit beach.
-
-It was great to see many of our long-standing members joining the trip, showing the rest of
-us that enthusiasm for sailing only get stronger with the years! &nbsp;😊
-
-A special mention goes to young Michael, who confidently took the helm and steered
-for most of the journey to Wormit beach with absolute precision, we anchored the
-wayfarers and everyone gathered on the sea wall to have a picnic. But while the rest
-of us were slowly roasting like rotisserie chickens in the sun, Kerstin decided she
-can casually stroll straight into the Tay for a swim - looking remarkably pleased with
-herself while the rest of us sat there melting in our clothes. &nbsp;😊😊
-
-# On the Oars: Coffee, Tasters and New RP’s
-
-Over on the rowing side, things have been buzzing. We’ve had a steady stream of
-taster sessions with new faces coming along – and even better coming back.
-Speaking of those taster sessions, a massive Thank You to Clive, from sending out
-the information, opening up the club and chatting with every new face and keeping
-us all in the loop.
-
-A major highlight this month was not one, but two separate rowing trips to Newport
-for coffee, proving that our rowers are just as dedicated to caffeine as they are to
-cardio. A huge shout out to Karen and Phil for leading the way and for successfully
-navigation their first long trip as RPs, and by all accounts, everyone had a great time.
-“Clive shares the fully story later in this newsletter”.
-
-Cox Training is Back! Linda is back at the helm now she’s been released from
-grandparent duties, so cox training sessions are underway once again on a Monday
-evening – Please check the booking sheet for all dates.
+The rowers had a bit of a head start, arriving first and taking the opportunity for a wee wander along the beach till they saw the sailing fleet on the horizon 😊and once the sailors arrived all 16 of them - it was all hands-on deck to help pull the boats ashore. With everyone safely on the beach and the sun shining, attention quickly turned to the next important event of the day – the picnic! Out came the pieces🍌🥪and guess what ... yes Kerstin was in again! Along with a few other ... at this rate we’re beginning to wonder whether she joined DSRC for the sailing or simply for access to new swimming spots!&nbsp;😂🤣
 
 
-# Breaking News: Eider finished her Spa Month
+# Plenty of Action on the Tay
 
-After weeks of intense pampering, deep tissue sanding, and full-body coats of fresh
-paint, Eider is finally ready to return to the water. She’s sporting 2 fresh coats of paint
-and varnish inside and out, new thole pins, to top it off Derik fitted a snazzy set of
-new rollers to the trolley to save all our backs.
+The rest of August certainly didn’t slow down, with some great turnouts for our regular sailing sessions and lots of boats taking to the water.
 
-# Fish & Chip Night
+Thursday evenings have continued to be very well supported as was Saturday or Sunday sailing. It’s fantastic to see the enthusiasm showing no signs of letting up.
 
-Well, that Fish and Chip night was off the scale! What a cracking evening we had,
-thank you to our increasable Party Planners who went all out. The clubhouse was
-transformed into a top-tier nautical chippy – “complete with salt, vinegar, a brilliant
-quiz and incredible hand-crafted bunting and paper boats”.
+⛵🚣‍♀️ Then came the **Through the Bridge Sail & Row** on the 18th when both sailors and rowers headed out in some decidedly lively conditions ... calm and relaxing it certainly wasn’t 🤣😂 the wind and the waves adding a little extra excitement – but another great adventure and plenty to talk about afterwards.
 
-A big shout-out to our Party Planners Pam, Eileen, Rosilynn, Clive, Wendy, Karen,
-Jennet, Mandy, Phil – Once again, they pulled out for all the stops to make the
-evening such a success.
+Our safety boat crew have certainly been kept busy too. On the 13th, the wind decided to take an early night, leaving a few sailors requiring a little assistance home – Thankfully, our safety boats were on hand to provide a taxi service home 🚕⛵. A reminder of just how valuable our safety crew are ... Big Thank You to ALL🙏.
 
 
-# Member's Corner
+# Paint, Soup &amp; Plenty of Helpers!
 
-This month club member Clive shares his experience from one of his recent rows:
+Our Paint & Soup Day on the 12th was another great success, with an amazing **20 willing helpers** turning up armed with brushes, rollers and loads of enthusiasm. First job of the day – choose your colour try not to wear too much of it! 🤣 There was plenty of laughter along the way, and somehow an impressive amount of painting got done! A few members even brought along some younger family recruits, who rolled up their sleeves and did a fantastic job. And not forgetting Murray who provided the scaffolding and seemed to arrive with every tool you could think of – with plenty of ideas and practical know-how to help keep us on the right footing ... 🤣 **A Huge Thanks to everyone** 🙏
 
-> “Two bridges and a bacon roll”- There was an opportunity near the end of July to
-> do a long row upriver pushed by the tide and then return with the tide. The RP did
-> her best to drum up a crew, but it seemed to no avail. Then the advertising tactics
-> changed – with a crew of five we could comfortably do one bridge, with a crew of six
-> we could do both bridges and call at a coffee shop on the way back. Was the coffee
-> shop enough of a pull? It was not 100% successful as we only had 5 crew, the
-> minimum needed, but we could go ahead and have time on the water. Conditions on
-> the day were superb and after only 30 minutes we had reached Newport. We paused
-> and conferred - there were a few doubters in the boat so we compromised by saying
-> we would continue for another 20 minutes. That bit of confabbing cost us as the
-> rising tide was dying fast. Eventually the railway bridge got closer and time was
-> pushed to the back of everyone’s mind. A little more effort and perseverance and we
-> were under the railway bridge – a first for some on board. After turning around
-> the focus was on Newport and the promised café. We landed on a shingle beach
-> and tramped up to the terrace at Shoreline. Bacon rolls, egg rolls - there may have
-> been others – scones with cream and jam were served up along with tea and various
-> coffees. Whatever aches and pains may have existed were lost in the endless
-> chatter. And then back to the boat and home. One other first was scored that day;
-> our RP was acting alone for the first time. I don’t know if we managed to embarrass
-> her with our congratulations and applause, but we did try hard.
+# The Portsoy Adventure 🚣‍♂️🐠🥂
 
-If you have a story or experience you would like to share, please let me know. It
-would be great to make it a regular feature of the newsletter.
+And then came **Portsoy!**. Some of the advance party arrived on Sunday and, before we’d barely unpacked, we’d been invited along to a barbecue with the Portsoy rowers - which pretty much set the tone for the rest of the week!
 
-# Workshop Corner & Wash Down Hose Reel
+What a welcome we received. They showed us their two skiffs and the containers they’ve transformed into their rowing base and told us how local businesses and the wider Portsoy community had rallied round to help with everything from improving their facilities to providing lifejackets. The community spirit there is quite something.
 
-Just a couple of friendly reminders. Whether you’re working on the skiff, your own
-boat, or using the workshop, please remember to leave your work area nice and tidy
-when you’ve finished and put tools or equipment back where they belong.
-Unfortunately, the Tool Fairy is on holiday, and nobody is coming in overnight to
-sweep up after us.
+And then there was **Susan!**. Full of fun, enthusiasm and adventure - and apparently someone who knows absolutely everyone in Portsoy! 😂 Before we knew it, a magnificent haul of freshly caught mackerel had somehow made its way **straight from the fishing boats to the Sail Loft kitchen**. Thankfully, **Wendy’s husband Dougie** stepped up to the challenge, cooking the lot and producing a fantastic feast (You really don’t get much fresher than that!). 🐟 And that wasn’t his only appearance in the kitchen during the week either – by the end of the trip, we’re not quite sure if whether Dougie had come for a holiday or had accidentally been appointed **DSRC’s resident chef!** 😂🧑‍🍳
 
-One final favour, please. After using the wash-down hose reel, could you leave it on
-the east side of the workshop, beside the clothing store (where the sailing gear is
-kept), it’s starting to rust, and keeping it there will help.
+And not forgetting **Pam and the DSRC neck buffs!** They made the journey northeast too, and before long our rowers were heading out to sea sporting the club colours ... **we certainly weren’t rowing under the radar**. 🚣🤣
 
-# DSRC Calendar – Order Yours Now
+As more of our gang arrived on Monday and Tuesday, the Portsoy hospitality just kept coming. Leftovers from Sunday’s barbecue? No problem - apparently the answer was simply another barbecue! So off we trotted again on Wednesday for more food, laughter and great company.
 
-<div style="overflow: hidden;">
-  <img src="club-calendar.jpeg" alt="Club Calendar" style="float: left; width: 30%; height: auto; margin: 10px 20px 10px 0; border-radius: 12px;" />
-  <p>Packed with brilliant sailing and rowing photos, our club calendar for £10. Buy one for yourself, pick a few extra for friends or family? Whether they live just around the corner or on the other side of the world.</p>
-  <p>Please pay through the Club bank account: Reference ‘calendar’, Sort Code: 80-22-60, Acc No: 29413263.</p>
-</div>
+Of course, we did manage to fit in some rowing between all this eating! The Portsoy rowers came out with us, shared their local knowledge and showed us the tricks of navigating their two harbour entrances. They couldn’t have been more generous with their time - wherever we rowed, they were there making sure we knew where we were going and, more importantly, how to get back again! 😂
 
-<div class="page-break"></div>
+By the end of the week, it felt as though we’d known them for years. So on our final evening, it was our turn to return some of that wonderful hospitality, and we invited the Portsoy gang back to the Sail Loft for a wee DSRC shindig - plenty of food, refreshments, laughter and stories to round off a fantastic adventure.
+
+The best bit? **They’re coming to visit us next year!** Some are already keen to swap their oars for sails and have a go at sailing as well as rowing when they come to Dundee. After the welcome they gave us, we’ve certainly got a hard act to follow - but we’re already looking forward to returning the hospitality and showing them how we do things on the Tay! ⛵🚣‍♀️😂
+
+
+# Work First ... Party Later 🧹🎉
+
+Before the bonfire celebrations could begin, there was still work to be done! **A BIG thank you** to everyone who came along to help at our monthly Work party earlier in the day and got stuck in. Jobs done, tools away – now it’s time to swap work party for party! 🤣
+
+### Bonfire, Band & a Brilliant Night! 🔥🎶
+
+What a way to round off August! We had a fantastic turnout for our **Bonfire & Band Night**, with a roaring bonfire outside, live music, food and cakes, and everyone arriving with their refreshments ready for a great night.
+
+And yes ... **Murray and his scaffolding made another appearance!** 😂 This time it wasn’t for painting, but to get everything set up outside, complete with a camera capturing the evening. Between Murray’s camera and everyone’s phones, we reckon there may now be more photographs of the night than there were people there!
+
+A HUGE thank you to **Kerstin and the team** for all the work that went into preparing everything, to everyone who brought along food and baking, and to those hardy souls who stayed behind to help with the clear-up afterwards.
+
+And it seems the fun didn’t stop when the bonfire went out! **Mandy’s posts from the night** clocked up an amazing **900 views in just an hour and a half** – clearly everyone wanted a peek at what DSRC have been up to.🔥
+
+Great music, great food, a blazing bonfire and even better company - **a cracking night and a brilliant way to see August out in true DSRC style!** 🔥🎶🥳
+
+
+## ⛵Looking for a New Home ...
+
+We have a Wanderer sailing dinghy for sale, available to members for £500 ... O.N.O. If you’re interested, please get in touch and let us know.
+We also have a fiberglass tender available. No oars included, but plenty of potential! **We’re open to reasonable offers**, so if you are interested please get in touch.
+
 
 # Dates to Remember
 
-- Cox Training Session - started again, please see booking sheets
-- Safety Helm Refresher - Saturday 8th August
-- Boat Shed Paint & Soup Day - 12th August
-- Fifie Friday - Date to follow
-- Portsoy Trip - 25-28th August
-- DSRC Beach Bonfire Night, live music with the Doolichters in
-the boathouse - Saturday 29th August
-- Bell Rock - 4th September
-- Forfar Regatta - Saturday 17th October
+- Harvest Home – 7pm–11pm, tickets £12.50 each now available
+- Forfar Regatta – Saturday 17th October
+- Club AGM - Sunday 22nd November, 2pm
+- Christmas Party – 4th December
+
+<div class="page-break"></div>
 
 # Until Next time
 
-Remember, rowers are the only athletes who spend an entire
-workout staring at where they have just been, while dinghy sailors are the only
-people who tie themselves into human knots just to pray for a breeze to get home for
-tea. Keep the pointy end forward, don’t drop the rudder, and if all else fails - blame
-the tide! &nbsp;😊
+As we sail out of August, let’s keep the wind in our sails, the oars pulling together and the laughter flowing 🚣‍♀️⛵Fair winds and happy rowing everyone! 
 
 &nbsp;
 
