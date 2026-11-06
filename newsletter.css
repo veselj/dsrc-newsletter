@@ -266,6 +266,13 @@ img {
 }
 
 /* Footer */
+.footer {
+	max-width: var(--text-width);
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden; /* contains the floated badge inside the page */
+}
+
 .footer-contact {
 	margin-top: 12px;
 	padding-top: 12px;
@@ -274,8 +281,8 @@ img {
 }
 
 img.footer-badge {
-	display: block;
-	margin: 12px auto 12px;
+	float: right;
+	margin: 12px 0 12px 16px;
 	max-width: min(106px, 15%);
 	height: auto;
 	border-radius: 0;
@@ -356,4 +363,36 @@ img.footer-badge {
 		background: #111827;
 		color: #f9fafb;
 	}
+}
+.poem {
+	margin: 1.2em auto;
+	padding: 0.8em 1.4em;
+	max-width: 80%;
+	border-left: 3px solid #2e7d5b;
+	background: #f4f9f6;
+	font-style: italic;
+	line-height: 1.6;
+	page-break-inside: avoid;
+}
+.poem .line-block { margin: 0; }
+.poem-author {
+	text-align: right;
+	font-style: normal;
+	font-size: 0.9em;
+	margin-top: 0.8em;
+}
+
+.guest-article {
+	margin: 1em 0;
+	padding: 0.8em 1.4em;
+	border-left: 3px solid #2e7d5b;
+	background: #f4f9f6;
+	border-radius: 0 8px 8px 0;
+}
+.guest-byline {
+	margin: 0 0 0.6em 0;
+	font-size: 0.9em;
+	font-weight: bold;
+	font-style: italic;
+	color: #2e7d5b;
 }

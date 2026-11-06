@@ -85,6 +85,46 @@ git push
   <img src="club-calendar.jpeg" alt="Club Calendar" style="float: left; width: 30%; height: auto; margin: 10px 20px 10px 0; border-radius: 12px;" />
   ```
 
+## Adding a poem
+
+Plain Markdown joins consecutive lines into one paragraph, so a poem needs special markup to keep its line breaks. Wrap it in a `poem` block and start every line with `| `:
+
+```
+::: poem
+| First line of the poem
+| second line of the poem
+| third line of the poem
+
+<p class="poem-author">A Poem by Author Name</p>
+:::
+```
+
+- Put a blank line between stanzas, but keep the `| ` at the start of every line inside a stanza.
+- To indent a line, add extra spaces after the `| ` (e.g. `|   indented line`).
+- The `<p class="poem-author">` line is optional. It shows right-aligned under the poem, so move it above the first `|` line if you want it as a title.
+- Leave a blank line before and after the `:::` markers.
+- Any text that is not part of the poem (intro, thank-you) goes outside the block.
+
+The look of the poem (italic, green left border, light background) is set by `.poem` and `.poem-author` in `newsletter.css`.
+
+## Adding an article written by someone else
+
+Wrap a guest article in a `guest-article` block, with the author's byline as the first line. Keep the normal `#` heading above the block:
+
+```
+# Article Title
+
+::: guest-article
+<p class="guest-byline">By Author Name</p>
+
+First paragraph of the article.
+
+Second paragraph of the article.
+:::
+```
+
+Leave a blank line before and after the `:::` markers. The shaded box and byline styling come from `.guest-article` and `.guest-byline` in `newsletter.css`.
+
 ## Check
 
 After the newsletter is generated, you may need to check page breaks and fix them manually with ```<div class="page-break"></div>```.

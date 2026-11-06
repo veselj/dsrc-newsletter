@@ -1,101 +1,152 @@
 ---
 title: "Dundee Sailing and Rowing Club"
-subtitle: "September 2026 Newsletter"
-date: 1st September 2026
+subtitle: "November 2026 Newsletter"
+date: 4th November 2026
 author: "Yolanda Archibald"
 ---
 
 # Commodore’s Corner
 
-If anyone was hoping for a quiet August at DSRC…. we clearly didn’t get the memo!
+Well, November already! Where has the year gone? The sailing season may be drawing to a close, but there’s certainly no slowing down at DSRC! With rowing continuing throughout the winter, training sessions, social events and Christmas festivities on the horizon, there’s plenty to keep us busy.
 
-It’s been a month packed with sailing, rowing, training, jobs around the club and, of course, a little adventure further afield. And when there’s an adventure to be had, it doesn’t usually take much persuasion for the DSRC members to pack their bags and head off – this time to Portsoy was calling. 😊😊
-
-There have been plenty of laughs, great days on the water, and more than a few stories to tell, so grab a cuppa and read on ... 
+So, here’s a wee catch-up on what’s happening around the club.
 
  
-# August Adventures – Before We Even Got to Portsoy!
+# ⛵ Sailing - What a Finish!
 
-August got off to a flying start! Our Barry Budden outing saw 16 sailors and 6 rowers for a great day out – and thankfully, the only thing being launched at Barry that day were the DSRC boats.
+What a fantastic end to the weekend sailing season with 18 sailors out on the water! 😊 A&nbsp;brilliant turnout and a great way to finish.
 
-The rowers had a bit of a head start, arriving first and taking the opportunity for a wee wander along the beach till they saw the sailing fleet on the horizon 😊and once the sailors arrived all 16 of them - it was all hands-on deck to help pull the boats ashore. With everyone safely on the beach and the sun shining, attention quickly turned to the next important event of the day – the picnic! Out came the pieces🍌🥪and guess what ... yes Kerstin was in again! Along with a few other ... at this rate we’re beginning to wonder whether she joined DSRC for the sailing or simply for access to new swimming spots!&nbsp;😂🤣
-
-
-# Plenty of Action on the Tay
-
-The rest of August certainly didn’t slow down, with some great turnouts for our regular sailing sessions and lots of boats taking to the water.
-
-Thursday evenings have continued to be very well supported as was Saturday or Sunday sailing. It’s fantastic to see the enthusiasm showing no signs of letting up.
-
-⛵🚣‍♀️ Then came the **Through the Bridge Sail & Row** on the 18th when both sailors and rowers headed out in some decidedly lively conditions ... calm and relaxing it certainly wasn’t 🤣😂 the wind and the waves adding a little extra excitement – but another great adventure and plenty to talk about afterwards.
-
-Our safety boat crew have certainly been kept busy too. On the 13th, the wind decided to take an early night, leaving a few sailors requiring a little assistance home – Thankfully, our safety boats were on hand to provide a taxi service home 🚕⛵. A reminder of just how valuable our safety crew are ... Big Thank You to ALL🙏.
+The Thursday sailors aren’t disappearing for the winter either! Fortnightly onshore sessions and theory will continue, and everyone is welcome. Details on Spond, Going Sailing WhatsApp or contact Kerstin.
 
 
-# Paint, Soup &amp; Plenty of Helpers!
+# Winter Rowing - Keep Those Oars Moving!
 
-Our Paint & Soup Day on the 12th was another great success, with an amazing **20 willing helpers** turning up armed with brushes, rollers and loads of enthusiasm. First job of the day – choose your colour try not to wear too much of it! 🤣 There was plenty of laughter along the way, and somehow an impressive amount of painting got done! A few members even brought along some younger family recruits, who rolled up their sleeves and did a fantastic job. And not forgetting Murray who provided the scaffolding and seemed to arrive with every tool you could think of – with plenty of ideas and practical know-how to help keep us on the right footing ... 🤣 **A Huge Thanks to everyone** 🙏
+Full details of our winter rowing sessions can be found on the club website, and additional training may be arranged depending on availability. Our winter programme offers something for everyone:
 
-# The Portsoy Adventure 🚣‍♂️🐠🥂
+- Wednesday: Training rows, times depend on tides.
+- Saturday 8:15 - 9:15am: Stamina rows for fitness and regatta preparation.
+- Saturday 9:15 - 10:15am: Taster rows.
+- Saturday 10:15 - 11:30am: Training rows, particularly helpful for newer rowers.
 
-And then came **Portsoy!**. Some of the advance party arrived on Sunday and, before we’d barely unpacked, we’d been invited along to a barbecue with the Portsoy rowers - which pretty much set the tone for the rest of the week!
+Informal rowing and coxing training can take place during regular two-hour rows. Dedicated coxing sessions have stopped for winter.
 
-What a welcome we received. They showed us their two skiffs and the containers they’ve transformed into their rowing base and told us how local businesses and the wider Portsoy community had rallied round to help with everything from improving their facilities to providing lifejackets. The community spirit there is quite something.
+**RP training**:  Details on how to become an RP are available on the club website.
 
-And then there was **Susan!**. Full of fun, enthusiasm and adventure - and apparently someone who knows absolutely everyone in Portsoy! 😂 Before we knew it, a magnificent haul of freshly caught mackerel had somehow made its way **straight from the fishing boats to the Sail Loft kitchen**. Thankfully, **Wendy’s husband Dougie** stepped up to the challenge, cooking the lot and producing a fantastic feast (You really don’t get much fresher than that!). 🐟 And that wasn’t his only appearance in the kitchen during the week either – by the end of the trip, we’re not quite sure if whether Dougie had come for a holiday or had accidentally been appointed **DSRC’s resident chef!** 😂🧑‍🍳
+**A wee reminder**: Bring your competency booklet for signing and let the RP know what you’d like to work on.
 
-And not forgetting **Pam and the DSRC neck buffs!** They made the journey northeast too, and before long our rowers were heading out to sea sporting the club colours ... **we certainly weren’t rowing under the radar**. 🚣🤣
+**And to our early-morning stamina rowers @6:15am**: Please check the booking sheet for available days each week. There’s nothing quite like a refreshing start to the weekend, especially when everyone else is still tucked up in bed!
 
-As more of our gang arrived on Monday and Tuesday, the Portsoy hospitality just kept coming. Leftovers from Sunday’s barbecue? No problem - apparently the answer was simply another barbecue! So off we trotted again on Wednesday for more food, laughter and great company.
+# Members’ Survey - Have Your Say!
 
-Of course, we did manage to fit in some rowing between all this eating! The Portsoy rowers came out with us, shared their local knowledge and showed us the tricks of navigating their two harbour entrances. They couldn’t have been more generous with their time - wherever we rowed, they were there making sure we knew where we were going and, more importantly, how to get back again! 😂
+As we reflect on the past year and look ahead, we’d love to hear everyone’s views on the club and its future. The more members who take part, the better the results will reflect the views of everyone across the club. So please take time to complete the survey. The survey closes on Sunday 8th November, which gives us time to process the results before the AGM.
 
-By the end of the week, it felt as though we’d known them for years. So on our final evening, it was our turn to return some of that wonderful hospitality, and we invited the Portsoy gang back to the Sail Loft for a wee DSRC shindig - plenty of food, refreshments, laughter and stories to round off a fantastic adventure.
+**[Complete the survey here](https://forms.gle/uos3Mgz335EwXx4V6)**
 
-The best bit? **They’re coming to visit us next year!** Some are already keen to swap their oars for sails and have a go at sailing as well as rowing when they come to Dundee. After the welcome they gave us, we’ve certainly got a hard act to follow - but we’re already looking forward to returning the hospitality and showing them how we do things on the Tay! ⛵🚣‍♀️😂
+# A Little Something Special
 
-
-# Work First ... Party Later 🧹🎉
-
-Before the bonfire celebrations could begin, there was still work to be done! **A BIG thank you** to everyone who came along to help at our monthly Work party earlier in the day and got stuck in. Jobs done, tools away – now it’s time to swap work party for party! 🤣
-
-### Bonfire, Band & a Brilliant Night! 🔥🎶
-
-What a way to round off August! We had a fantastic turnout for our **Bonfire & Band Night**, with a roaring bonfire outside, live music, food and cakes, and everyone arriving with their refreshments ready for a great night.
-
-And yes ... **Murray and his scaffolding made another appearance!** 😂 This time it wasn’t for painting, but to get everything set up outside, complete with a camera capturing the evening. Between Murray’s camera and everyone’s phones, we reckon there may now be more photographs of the night than there were people there!
-
-A HUGE thank you to **Kerstin and the team** for all the work that went into preparing everything, to everyone who brought along food and baking, and to those hardy souls who stayed behind to help with the clear-up afterwards.
-
-And it seems the fun didn’t stop when the bonfire went out! **Mandy’s posts from the night** clocked up an amazing **900 views in just an hour and a half** – clearly everyone wanted a peek at what DSRC have been up to.🔥
-
-Great music, great food, a blazing bonfire and even better company - **a cracking night and a brilliant way to see August out in true DSRC style!** 🔥🎶🥳
+I’d like to share this lovely poem by Sarah, one of our newer members. I think it captures beautifully the friendship, laughter and sense of belonging that makes DSRC so special.
 
 
-## ⛵Looking for a New Home ...
+::: poem
+| I came to DSRC
+| pristine, dry, in purple leggings, clean
+| white top. Arrived a stranger to myself,
+| had never fitted in space and time. My
+| body was stiff from sitting still. I left
+| in squelching shoes, with creased up eyes that hurt
+| from unfamiliar laughter. I left
+| with sea wind in my bones, brine in my blood
+| Knowing I had somewhere to belong.
 
-We have a Wanderer sailing dinghy for sale, available to members for £500 ... O.N.O. If you’re interested, please get in touch and let us know.
-We also have a fiberglass tender available. No oars included, but plenty of potential! **We’re open to reasonable offers**, so if you are interested please get in touch.
+<p class="poem-author">Sarah Frideswide (Literary Loony)</p>
+:::
+
+Thank you, Sarah, for sharing such lovely words.
 
 
-# Dates to Remember
+# Forfar Regatta - Sunshine, Smiles and Medals!
 
-- Harvest Home – 7pm–11pm, tickets £12.50 each now available
-- Forfar Regatta – Saturday 17th October
-- Club AGM - Sunday 22nd November, 2pm
-- Christmas Party – 4th December
+::: guest-article
+<p class="guest-byline">By Sarah Frideswide (Literary Loony)</p>
+
+On Saturday 17th October, a group of us went up to Forfar for the regatta. For me, taking part in my first ever regatta, it was a lot of fun. We had glorious sunshine all day, good company, good food and a bit of exercise in between. I was coxing the 280 team and they were brilliant: worked hard all around the course and someone said that we came fourth, which was phenomenal when we'd had only one chance to train with the whole team together beforehand. It was fun to put my army training to good use. I think coxing is the only activity where you can yell at people for 20 minutes straight and then they say 'thank you' afterwards! In the next race, the Open Women, Forfar cheated quite flagrantly. They don't know it yet, but we're going to exact vengeance once we've had the chance to get out on plenty of stamina rows - we'll show them what's what, only we'll do it honourably! 
+
+Several of us joined in the mixed-club races in the afternoon. Catherine, Frances and Gil all won medals in those races. Karen and I found ourselves pitted against each other when the boat she was rowing in was trying to overtake the team I was coxing in Eider. I made sure they had to work for it; they didn't manage to catch us until just before the finish line! All in all, the day was a lot of fun and I went home hoarse, hungry and ready for bed! I suspect most of us did.
+:::
+
+
+# Slipway - Some Encouraging News!
+
+We’ve had some very positive news from Dundee City Council!
+
+Following discussions with the Council’s Property Department, we’ve received confirmation that a **99-year lease for our slipway is possible**.
+
+We’re now working through the proposed terms, including the associated costs, with the aim of securing a long-term agreement that will allow us to seek funding for much-needed improvements to the slipway. 
+
+There’s still work to be done, but it’s a positive step forward, and we’ll keep members updated as things progress. 
 
 <div class="page-break"></div>
 
-# Until Next time
+# Looking to the Future
 
-As we sail out of August, let’s keep the wind in our sails, the oars pulling together and the laughter flowing 🚣‍♀️⛵Fair winds and happy rowing everyone! 
+There’s been plenty happening behind the scenes as we look towards the future of DSRC!
+
+We’ve been working with architects on ideas for improving our clubhouse, potentially in phases, and hope to have some initial drawings on display at the AGM. These are very much early proposals, and members will have the opportunity to share their thoughts and suggestions afterwards.
+
+Meanwhile, our fundraising group has been busy exploring potential funding opportunities for both projects.
+
+It’s still early days, but exciting to see things moving forward!
+
+# Dates for Your Diary
+
+## Monday 9th November - DSRC on Bridge FM (Hospital Radio)
+
+We’ll be chatting about the club on hospital radio. A lovely opportunity to spread the word about what we do. Further details and time will be shared on the club WhatsApp groups. 
+
+## Sunday 22nd November - Club AGM - 2pm
+
+A reminder of our AGM. We’re also looking for members interested in joining the committee. Fresh faces, new ideas and a little enthusiasm are always welcome. Remember, it’s your club!
+
+## Wednesday 25th November - Derick Henderson’s Underwater Adventure - 7pm
+
+An opportunity to hear about Derick’s diving experiences and adventures beneath the waves. Join us as he shares his underwater experience, along with photos from his adventures. **Then come back to the surface and enjoy a cuppa!** 😊
+
+## Friday 4th December - Christmas Celebration Fundraiser 7pm - 11:30pm
+
+  <div style="overflow: hidden;">
+  <img src="festive.jpeg" alt="Christmas Celebration" style="float: left; width: 30%; height: auto; margin: 10px 20px 10px 0; border-radius: 12px;" />
 
 &nbsp;
+🎅🎄Come along for some festive fun, good company and a chance to support the club. Let’s make it a great night! **Have you got your tickets yet?** Tickets £12.50. Please come along and support your club.
+
+Lots of fun, music, dancing, games, a raffle and lots of laughs.  
+
+**DSRC Payment details**: Sort code: 80-22-60, Account: 29413263, Reference: FESTIVE
+
+</div>
+
+<div style="clear: both;"></div>
+
+## January to March 2027 - Winter Evening Training
+
+Open to sailors and rowers alike, with sessions covering weather, tides, knots, VHF radios and other useful skills. A chance to learn something new without getting your feet wet! 
+
+**Further details on winter activities will follow.**
+
+
+# And finally ...
+
+A big thank you to everyone who continues to give their time and enthusiasm to the club. Whether you’re rowing, sailing, helping behind the scenes or simply joining in the fun, it’s the people who make DSRC what it is.
+
+Here’s to another enjoyable winter together - and remember, if you see someone heading out rowing on a freezing morning, give them a wave. They’ve clearly forgotten how comfortable their bed was!
+
+Happy rowing, happy sailing and keep smiling!
 
 Yolanda
 
 ---
-<p class="footer-contact">Contact: yvarchibald@gmail.com</p>
-
+::: footer
 ![](scio-small-green.jpg){.footer-badge width=80px}
+
+<p class="footer-contact">Contact: yvarchibald@gmail.com</p>
+:::
